@@ -1,0 +1,24 @@
+{
+  "name": "proimond/html",
+  "description": "Creación de HTML, Formularios basados en laravelcollective/html",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Diego Gaitán",
+      "email": "felipe.gaitan.81@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Proimond\\" : "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.0",
+    "mockery/mockery": "^0.9.9"
+  },
+  "require": {
+    "laravelcollective/html": "^5.4"
+  }
+}
