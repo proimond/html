@@ -1,7 +1,6 @@
 {
   "name": "proimond/html",
   "description": "Creación de HTML, Formularios basados en laravelcollective/html",
-  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
