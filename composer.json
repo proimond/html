@@ -10,7 +10,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Proimond\\" : "src/"
+      "Proimond\\": "src/"
     }
   },
   "require-dev": {
@@ -18,6 +18,7 @@
     "mockery/mockery": "^0.9.9"
   },
   "require": {
+    "php": ">=5.6.4",
     "laravelcollective/html": "^5.4"
   }
 }
